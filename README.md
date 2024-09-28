@@ -12,6 +12,7 @@ Sistem Informasi A
 # Penjelasan Mengenai Output
 1. User melalukan Login sederhana dengan memasukkan Nama dan NIM
 ![LOGIN](https://github.com/user-attachments/assets/b7f385af-8c5c-43e1-8998-f3a1fe3410bb)
+
 setelah User login maka akan disapa dan diarahkan langsung ke program
 
 2. Setelah itu, user diminta untuk menginput berapa jam berkerja dan tarif kerja
