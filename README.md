@@ -26,7 +26,7 @@ setelah User login maka akan disapa dan diarahkan langsung ke program
 b. namun jika jam bekerja kuranng dari 160 jam maka tidak akan mendapatkan bonus
   ![4](https://github.com/user-attachments/assets/d54335e2-ba7f-4ef3-964e-6034ac44b37b)
 
-5. Jika sudah selesai, maka user diberikan opsi untuk melanjutkan program perhitungan gaji atau keluar dari program
+4. Jika sudah selesai, maka user diberikan opsi untuk melanjutkan program perhitungan gaji atau keluar dari program
    
    a. jika user memilih ya maka akan mengulang program.
    ![6](https://github.com/user-attachments/assets/36e91f38-6c6c-48a1-841f-76fe487f1cde)
