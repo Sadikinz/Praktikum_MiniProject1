@@ -5,12 +5,10 @@ NIM = int(input('Masukkan NIM Kamu: '))
 print(f'\nHaloo, {Nama} Selamat Datang!')
 print(f'NIM Kamu adalah {NIM}')
 
-
 while True:
 #Input untuk mengetahui Jam kerja dan Tarif kerja karyawan
     jam_kerja = int(input('\nMasukkan total jam kerja karyawan :'))
     gaji_kerja = float(input('Masukkan gaji kerja karyawan Per hari Rp.'))
-
 
 #Percabangan untuk menentukan Bonus tarif kerja kepada karyawan yang bekerja lebih dari 160 jam
     if jam_kerja > 160:
