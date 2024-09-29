@@ -15,7 +15,7 @@ Sistem Informasi A
 
 setelah User login maka akan disapa dan diarahkan langsung ke program
 
-2. Setelah itu, user diminta untuk menginput berapa jam berkerja dan tarif kerja
+2. Setelah itu, user diminta untuk menginput berapa jam bekerja dan tarif kerja
 ![2](https://github.com/user-attachments/assets/809fc932-9733-4220-a618-5587381222f5)
 
 3. Setelah jam kerja dan tarif kerja telah diinput, maka program akan menghitung Total gaji dan jumlah Bonus
